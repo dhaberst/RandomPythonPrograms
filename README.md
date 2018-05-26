@@ -1,11 +1,12 @@
 # RandomPythonPrograms
-Here is a compilation of some random python problems and solutions
+Here is a compilation of some random python problems and solutions.
 
 ## Rotate
 
 The problem was defined as:
 
-```Use rotation to solve this riddle:
+```
+Use rotation to solve this riddle:
 
 I am a 3 digit number.
 I am 129 more than the number you get when you rotate me 1/2 turn.
